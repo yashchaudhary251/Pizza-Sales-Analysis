@@ -32,7 +32,7 @@ The goal is to identify sales trends, best-selling products, and key performance
 - Daily & Monthly Sales Trends  
 - Sales by Pizza Category & Size  
 
-![Dashboard Home](dashboard_home.png)
+![Dashboard Home](Dashboard_Home.png)
 
 ---
 
@@ -41,7 +41,7 @@ The goal is to identify sales trends, best-selling products, and key performance
 - **Best Seller by Quantity & Orders**: Classic Deluxe Pizza  
 - **Worst Seller by Revenue & Orders**: Brie Carre Pizza  
 
-![Dashboard Best/Worst](dashboard_bestworst.png)
+![Dashboard Best/Worst](Dashboard_BestWorst.png)
 
 ---
 
